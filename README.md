@@ -3,6 +3,7 @@
 
 I code sometimes (all I do is play videogames)
 
-languages: c#, c++, javascript, java (not anymore), python (not anymore)
+languages: c#, c++, javascript (and css + html but those are boring), java, python, sql
 
 Currently working on .io style massivly multiplayer maze game (unless I forgot to update this (I definitaly forgot to update this))
+update: still working on it just very good at forgeting i have github
