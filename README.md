@@ -8,3 +8,4 @@ languages: c#, c++, javascript (and css + html but those are boring), java, pyth
 Currently working on .io style massivly multiplayer maze game (unless I forgot to update this (I definitaly forgot to update this)).
 update: still working on it just very good at forgeting i have github.
 update: too lazy going to go do something else now.
+update: working on Balls of Steel which is basically just me learning how to do multiplayer with socket.io :)
