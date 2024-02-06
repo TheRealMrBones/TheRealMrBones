@@ -1,4 +1,4 @@
-<h1>Stalpo</h1>
+<h1>The Real Mr Bones</h1>
 <h2>The gaming</h2>
 
 I code sometimes (all I do is play videogames)
