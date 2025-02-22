@@ -1,8 +1,8 @@
 <h1>The Real Mr Bones</h1>
-<h2>The gaming</h2>
+<h2>Nolan Jones</h2
 
-I'm Nolan Jones and I go to Carmel High School
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheRealMrBones)](https://git.io/streak-stats)
 
-I code sometimes (all I do is play videogames)
+I'm passionate about all the different skills that fall under the Computer Science umbrella, but if I had to choose my favorite subjects they would be Backend Engineering, Systems Design, and Design Patterns.
 
-languages: c#, c++, javascript (and css + html but those are boring), java, python, sql, block code professional. 
+languages: c#, c++, typescript, javascript, java, python, sql, powershell. 
